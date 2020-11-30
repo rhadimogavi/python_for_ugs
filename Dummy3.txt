@@ -1,0 +1,98 @@
+
+Expertise
+Knowledgeable
+Recommendation
+Neutral: I am unable to argue for accepting or rejecting this paper; 3.0
+Comments to the Committee
+The authors investigated the impact of providing scientific background knowledge within a citizen science game on players' engagement, retention, and in-game performance. They analyzed different formats (text, cartoon, or video) and ways to present educational material.
+
+All reviewers found the paper is well-written. R2 highlighted that from R2’s perspective the paper is also sufficiently grounded in the related work. R1 noted that the offered the supplementary materials was very helpful.
+
+However, it was also noted that the limitation of this work should be better explained (R1, R2). For example, R2 pointed out that there exist possible limitations from the online setting or also that the unclear background information could have influenced the results.
+
+R2 noted that it would be helpful to describe how the survey questions were designed.
+
+Furthermore, R1 and R2 pointed out that more information about the qualitative part is necessary. For example, it was not clear how the interview responses were analyzed (e.g. content analysis, coders) or how pronounced the discussed aspects were in the interviews (R2). R1 recommended that the quotes would benefit from further interpretations.
+
+R1 also pointed out that it is necessary to clearly describe the research questions, difference between a “citizen science game” and a “serious game”, and if the authors developed the game.
+
+The main concern which all reviewers had, was about the contribution of the paper. For example, R1 wrote that it is not surprising that gamification usage can increase engagement, retention, and performance. It is recommended that the authors clearly highlight the novelty of their work and their contribution to the HCI community and with respect to related work.
+
+I would like to remind the authors that there is an opportunity for a 5000-character rebuttal. The authors should address in any misunderstandings or factual errors in the review and the concerns and remarks from the reviewers in order to show how they will consider these issues in their revised version.
+1AC: The Meta-Review
+(blank)
+Rebuttal response
+(blank)
+Final Reviews Ready - Post PC Meeting
+(blank)
+Suitability for other Venues
+(blank)
+Publicity Headline
+(blank)
+Final Acceptance of Camera Ready
+(blank)
+Reviewer 2 (2AC)
+Expertise
+Knowledgeable
+Recommendation
+. . . Between neutral and possibly accept; 3.5
+Review
+This paper explores the impact of providing scientific background knowledge within a citizen science game on players' engagement, retention, and in-game performance. For that purpose, a game dealing with bioinformatics was chosen and augmented with educational content. Three conditions (no content, all content at once, and gradual content) were compared finding that gradual content increased the above three measures. The paper is generally well-written, easy-to-follow, and from my perspective also sufficiently grounded in the related work. However, it also has parts which I feel should be improved.
+
+First, the biggest omission is a proper discussion of the limitations of the study. For example, while the paper makes clear where participants were recruited it remains a bit unclear if they identify as 'gamers' or 'citizen science volunteers', a distinction which has been identified as important in previous work. As such the results may be more or less applicable to a certain audience. The results also hint at the fact that the book icon was not spotted by (some of) the players in the 'all content at once' group (thus basically giving the same stimulus as in the control group). As such some of the results may be a direct consequence of this and not that all educational content was accessible at once. This would warrant some discussion as well as would possible limitations from the online setting. E.g., timings might have been impacted by people taking a break. In that sense, did the authors perform some sort of outlier detection? If I figured it correctly from the description, the 2nd questionnaire could also be taken later than after level 11. If so, people playing longer could respond differently as their experience might be a different one. The focus on a single game should be mentioned as further limitation.
+
+The quantitative analysis is well-written but the qualitative analysis in its current state is quite anecdotal. Currently it is not clear how the interview responses were analyzed (e.g. content analysis, coders) or how pronounced the discussed aspects were in the interviews. This would need to be presented in a more rigorous manner to make a real contribution to the paper.
+
+For me the main contribution was the comparative study of the three conditions. I also appreciate the pre-study investigating different ways of presenting the information (and its very good grounding in literature) but given the preliminary status of the study itself I would suggest to tone down this contribution in the abstract and introduction as it raised my expectations in something which I felt was not at the core of the work but rather conducted to establish the method to be used in the actual comparison. In terms of methodology of the pre-study I wondered if, since different questions were used in the pre/post test to avoid learning effects due to the short intervention, the authors checked whether the two tests were actually of the same difficulty? This might also be something to address in the limitations.
+
+In summary, an interesting study I enjoyed reading but which could benefit from a reframing of the main contribution, a more thorough qualitative analysis, and especially a critical discussion of the limitations.
+
+Minor comments:
+- The task of the game is to transform one sequence into another. I assume those can be of different length?
+- Please introduce the abbreviation RNA
+Comments to the Committee
+(blank)
+Rebuttal response
+(blank)
+Suitability for other Venues
+(blank)
+Publicity Headline
+(blank)
+Reviewer 1 (reviewer)
+Expertise
+Passing Knowledge
+Recommendation
+. . . Between possibly reject and neutral; 2.5
+Review
+I want to thank the authors for their engaging and well-written paper. Because I almost have no bioinformatics background, I learned a lot from the supplementary materials provided.
+This research studies a citizen science game that aims to solve a bioinformatics problem. The authors explore different formats of presenting the educational material (text, cartoon, video). Next, they inspect the effects of presenting educational content on players in a citizen science game. Their study designs seem valid, and the evaluations makes sense.
+However, some problems make me think this paper needs a “major revision” cycle like what we have in the CSCW conference to make it ready. I would be glad to hear the authors responses:
+- What are the main “contributions” of this work to the HCI community?
+- At first, the research questions are also not clear. I suggest authors point out their research question more clearly, maybe by itemizing them like RQ1, RQ2, and RQ3.
+- By the definition provided in the text, I cannot distinguish between a “citizen science game” and a “serious game.” Are they the same? If yes, the authors should include more literature about “gamification” as well.
+- I am not surprised to see that gamification usage can increase engagement, retention, and performance. The authors should argue for the novelty of their work.
+- What do authors mean by engagement? According to the literature, engagement can be categorized into three types of behavioral, emotional, and cognitive. Which one is aimed at this paper?
+- Is the game in Section 3 developed by the authors? What technologies are used for building it? Where can it be accessed? How are the rules for rewarding players established?
+- Subsection 4.2: How are those survey questions designed? How do authors know that these questions capture the knowledge gain? Although I see that the participants are selected from a university, I wonder how they are sampled and recruited?
+- Despite the extensive quantitative analysis, the qualitative part of the paper is a little bit shallow. Some quotes are not informative. I suggest the authors add more quotes and put more interpretations. For example, compare and discuss the contrasting quotes (if any).
+- Limitations of this work should be explained better by being put in another section.
+- From the editorial point of view, the work is clean and well-written. I only noticed some tiny problems like (don’t-->do not). Another round of proofreading will be advantageous. Furthermore, I believe that some sentences are too long, and it is better to make them shorter.
+Comments to the Committee
+(blank)
+Rebuttal response
+(blank)
+Reviewer 3 (reviewer)
+Expertise
+Expert
+Recommendation
+Possibly Reject: The submission is weak and probably shouldn't be accepted, but there is some chance it should get in; 2.0
+Review
+This paper tested two different methods of presenting educational content in a citizen science game, and evaluated the effect on player retention, engagement and performance compared with a control group. The only approach that had an effect on retention was curiosity, in which players were given gradual access to the content as they progressed in the game. Similarly, players were more engaged with the educational material and the game in the curiosity group. The authors also observed that players who interacted for more than 60 seconds with the scientific content obtained more points per level and there was a significant correlation between time spent reading and points obtained.
+
+The paper is well written. The experiment is well designed, RQs are answered and proper statistical analysis is conducted. I have no issue with the way the paper is written or how the information is communicated. My concern is that the contribution is not significant enough for this work (as it stands) to be published at CHI. The authors do not build on related work very well either in that we are not sure how much of what they present is novel. And assuming it is novel, I still fail to see the significance of the work.
+
+I would have happily accepted this work as a full paper for a B rated conference, but I feel the CHI contribution should be more significant.
+Comments to the Committee
+(blank)
+Rebuttal response
+(blank)
