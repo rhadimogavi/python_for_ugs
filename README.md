@@ -3,7 +3,7 @@
   
   Start your journey from UROP.ipynb
   
-  The ipynb file shared here aims to improve your programming skills. I encourage you to play with the codes to learn more.
+  The ipynb file shared here aims to improve your programming skills. I encourage you to play with the codes yourselves to learn more.
   Please don't hesitate to ask me your questions at any time.
   
 Best Regards,
