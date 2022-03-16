@@ -1,6 +1,10 @@
-# python_for_ugs
-  Hi everyone, 
+# Python for Undergraduate Students (Suitable for UROP students)
+  Dear Undergraduate Students, 
   
-  This is a quick python crash course for undergraduate students who work or are interested in taking urop projects.
+  Start your journey from UROP.ipynb
   
-  Start the journey from UROP.ipynb
+  The ipynb file shared here aims to improve your programming skills. I encourage you to play with the codes to learn more.
+  Please don't hesitate to ask me your questions at any time.
+  
+Best Regards,
+Reza HADI MOGAVI
